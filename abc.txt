@@ -1,2 +1,4 @@
 Hey
 Welcome to the git bash
+I am starting to learn a few tricks these days.
+Wish me luck
